@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeagueCallerServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2992bfbbf988e214783213f35bc220980b69a35d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeagueCallerServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeagueCallerServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
